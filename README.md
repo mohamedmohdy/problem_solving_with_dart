@@ -1,7 +1,7 @@
 # problem_solving_with_dart
 1- palindrom_string 
 Ask the user for a string and print out whether this string is a palindrome or not.
-A palindrome is a string that reads the same forwards and backwards.
+A palindrome is a string that reads the same forwards and backwards.<br>
 code : https://cutt.us/IyUib
 --------------------------------------------------
 2-Manipulate list items.dart
