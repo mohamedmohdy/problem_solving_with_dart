@@ -27,6 +27,5 @@ code : https://cutt.us/5hUqo<br>
 -------------------------------------------------
 <h4>
 5- Ask the user for a number and determine whether the number is prime or not.<br>
-Do it using a function<br>
 code : https://cutt.us/Un2B3
 
