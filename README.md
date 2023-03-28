@@ -1,4 +1,4 @@
-# problem_solving_with_dart
+<h2> problem_solving_with_dart
 <h4>
 1- palindrom_string 
 Ask the user for a string and print out whether this string is a palindrome or not.
