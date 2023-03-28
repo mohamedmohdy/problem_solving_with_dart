@@ -23,4 +23,10 @@ code : https://cutt.us/6Wgye<br>
 Ask the user to guess the number,<br>
 then tell them whether they guessed too low, too high, or exactly right.<br>
 Keep track of how many guesses the user has taken, and when the game ends, print this out.<br>
-code : https://cutt.us/5hUqo
+code : https://cutt.us/5hUqo<br>
+-------------------------------------------------
+<h4>
+5- Ask the user for a number and determine whether the number is prime or not.<br>
+Do it using a function<br>
+code : https://cutt.us/Un2B3
+
