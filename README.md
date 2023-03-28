@@ -17,3 +17,10 @@ code : https://cutt.us/lXMJO<br>
 Make a two-player Rock-Paper-Scissors game against computer.<br>
 Ask for player’s input, compare them, print out a message to the winner.<br>
 code : https://cutt.us/6Wgye<br>
+-------------------------------------------------
+<h4>
+4- Generate a random number between 1 and 100.<br>
+Ask the user to guess the number,<br>
+then tell them whether they guessed too low, too high, or exactly right.<br>
+Keep track of how many guesses the user has taken, and when the game ends, print this out.<br>
+code : 
