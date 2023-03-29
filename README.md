@@ -27,5 +27,11 @@ code : https://cutt.us/5hUqo<br>
 -------------------------------------------------
 <h4>
 5- Ask the user for a number and determine whether the number is prime or not.<br>
-code : https://cutt.us/Un2B3
+code : https://cutt.us/Un2B3<br>
+-------------------------------------------------
+<h4>
+6-Write a program that takes a list of numbers for example<br>
+a = [5, 10, 15, 20, 25]<br>
+and makes a new list of only the first and last elements of the given list. For practice, write this code inside a function.<br>
+code : https://cutt.us/RpoYM <br>
 
