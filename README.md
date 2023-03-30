@@ -34,4 +34,9 @@ code : https://cutt.us/Un2B3<br>
 a = [5, 10, 15, 20, 25]<br>
 and makes a new list of only the first and last elements of the given list <br>
 code : https://cutt.us/RpoYM <br>
+-------------------------------------------------
+<h4>
+7-Write a program that asks the user how many Fibonnaci numbers to generate and then generates them<br>
+Make sure to ask the user to enter the number of numbers in the sequence to generate.<br>
+code : https://cutt.us/dbFFp
 
