@@ -44,4 +44,15 @@ code : https://cutt.us/dbFFp
 8-Write a program that takes a list<br>
 and returns a new list that contains all the elements of the first list minus all the duplicates.<br>
 code : https://cutt.us/8cntT
+-------------------------------------------------
+<h4>
+Write a program that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.
+
+For example, say I type the string:
+
+  My name is Michele
+Then I would see the string:
+
+  Michele is name My
+ code : https://cutt.us/ad5pN
 
