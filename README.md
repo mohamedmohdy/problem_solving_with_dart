@@ -38,7 +38,7 @@ code : https://cutt.us/RpoYM <br>
 <h4>
 7-Write a program that asks the user how many Fibonnaci numbers to generate and then generates them<br>
 Make sure to ask the user to enter the number of numbers in the sequence to generate.<br>
-code : https://cutt.us/dbFFp
+code : https://cutt.us/dbFFp<br>
 -------------------------------------------------
 <h4>
 8-Write a program that takes a list<br>
