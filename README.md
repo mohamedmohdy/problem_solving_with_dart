@@ -54,5 +54,17 @@ For example, say I type the string:<br>
 Then I would see the string:<br>
 
   Michele is name My<br>
- code : https://cutt.us/ad5pN
+ code : https://cutt.us/ad5pN<br>
+-------------------------------------------------
+<h4>
+10-Create a program that will play the “cows and bulls” game with the user.<br>
+The game works like this:<br>
+Randomly generate a 4-digit number. Ask the user to guess a 4-digit number.<br>
+For every digit the user guessed correctly in the correct place, they have a “cow”.<br>
+For every digit the user guessed correctly in the wrong place is a “bull.”<br>
+Every time the user makes a guess, tell them how many “cows” and “bulls” they have.<br>
+Once the user guesses the correct number, the game is over.<br>
+Keep track of the number of guesses the user makes throughout the game and tell the user at the end.<br>
+code : https://cutt.us/HOqqm<br>
+ 
 
