@@ -27,7 +27,7 @@ void main() {
     attempts += 1;
 
     stdout.write("\nPlease choose a four digit number: ");
-    String chosenNumber = stdin.readLineSync();
+    String chosenNumber = stdin.readLineSync()!;
 
     // Conditions to check if the game is over
     if (chosenNumber == randomNumber) {
