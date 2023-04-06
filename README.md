@@ -47,13 +47,10 @@ code : https://cutt.us/8cntT<br>
 -------------------------------------------------
 <h4>
 9-Write a program that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.<br>
-
 For example, say I type the string:<br>
-
-  My name is Michele<br>
+ My name is Michele<br>
 Then I would see the string:<br>
-
-  Michele is name My<br>
+ Michele is name My<br>
  code : https://cutt.us/ad5pN<br>
 -------------------------------------------------
 <h4>
